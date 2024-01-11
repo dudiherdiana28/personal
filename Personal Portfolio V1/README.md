@@ -5,7 +5,6 @@
 
   A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
